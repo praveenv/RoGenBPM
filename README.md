@@ -1,1 +1,1 @@
-# RoGenBPM
+Code for our paper "Robust and Generalizable Predictive Models for Business Processes"
